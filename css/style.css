@@ -1,0 +1,41 @@
+/* * {
+  border: 1px red solid !important;
+} */
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: auto;
+}
+
+body {
+  color: #535657;
+  background-color: #f0f9fe;
+  font-family: 'Montserrat', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  width: 100%;
+}
+
+header {
+  background-color: #fff;
+  padding-top: 50px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  margin: 35px;
+}
+
+p {
+  text-align: justify;
+  margin: 25px;
+}
