@@ -23,28 +23,26 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-.container {
-  background-color: #f0f9fe;
-}
-
 img {
   max-width: 100%;
 }
 
 header {
-  background-color: #fff;
+  background-color: #f0f9fe;
   text-align: center;
 }
 
-.main {
-  height: 100%;
-}
-
-h1 {
+h2 {
   text-align: center;
 }
 
-h3 {
+p {
   text-align: center;
   font-weight: lighter;
 }
+
+.main_top  {
+  padding: 25px;
+}
+
+#mc_embed_signup{clear:left; width:100%;}
